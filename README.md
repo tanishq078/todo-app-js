@@ -2,6 +2,8 @@
 
 # Created Todo App using HTML, CSS and Javascript
 
+deploy link - https://tanishq078.github.io/todo-app-js/
+
 This Todo App supports CRUD operations like -
 
 - adding a todo
